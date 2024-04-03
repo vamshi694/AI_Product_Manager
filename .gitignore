@@ -3,4 +3,4 @@ Copy code
 #.gitignore
 
 # Ignore the.env file
-.env
+/.env
