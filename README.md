@@ -12,4 +12,23 @@ A TPM bot to chat and brainstorm
 ![alt text][def]
 
 
+# Usecases:
 
+Persona_prompt = {Basic + Initial message + product + team} -> intent classification
+
+
+## New feature request
+ - Predefined questions
+
+
+## New product development plan
+ - Predefined questions
+ 
+
+## Root cause  analysis for an issue in the current product
+ - Predefined questions
+
+
+## Generate report/output
+ - Prompt {Prompt to generate PM duties + All the conversation +  generated next steps}
+ - Roadmapper / workstreams
