@@ -1,0 +1,6 @@
+bash
+Copy code
+#.gitignore
+
+# Ignore the.env file
+/.env
