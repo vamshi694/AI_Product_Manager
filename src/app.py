@@ -4,7 +4,7 @@ import os
 # from dotenv import load_dotenv
 # load_dotenv()
 
-# Build paths inside the project like this
+# Build paths inside the project like
 import streamlit as st
 import google.generativeai as genai
 
