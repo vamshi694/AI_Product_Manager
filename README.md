@@ -10,6 +10,3 @@ A TPM bot to chat and brainstorm
 
 [def]: images/image.png
 ![alt text][def]
-
-
-
