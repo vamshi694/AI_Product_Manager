@@ -161,6 +161,15 @@ def main():
         col1, col2 = st.columns([0.85,0.15])
         with col1:
             user_query = st.chat_input("How can I help you today?")
+            chat_input_html = f"""
+                    <style>
+                        [data-testid = "stChatInput"]{{
+                            max-height: 65px; /* Adjust this value to your desired max height */
+                            overflow-y: auto;
+                        }}
+                    </style>
+                """
+            st.markdown(chat_input_html, unsafe_allow_html = True)
         with col2:
             st.button("🎤", type = "primary")
 
@@ -226,7 +235,7 @@ def main():
         url = "https://videos.pond5.com/binary-digital-tech-data-code-footage-009784511_main_xxl.mp4"
         # video_url = generate_video(model_response_text, "https://www.thesun.co.uk/wp-content/uploads/2021/10/2394f46a-c64f-4019-80bd-445dacda2880.jpg?w=670")
         # display_video(video_url)
-        
+
         # display_video(url)
         video_html = f"""
             <video width="100%" height="225%" src="{url}" controls autoplay>
