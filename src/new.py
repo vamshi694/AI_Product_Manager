@@ -23,7 +23,7 @@ def generate_video(prompt, avatar_url):
     headers = {
     "accept": "application/json",
     "content-type": "application/json",
-    "Authorization" : f"Basic Y2hlZXRoaXJhbGEuamFobmF2aUBnbWFpbC5jb20:uCjobEH0WS6vHAUfiUbmy"
+    "Authorization" : f"Basic APIKEY"
 }
     payload = {
             "script": {
