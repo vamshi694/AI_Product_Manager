@@ -6,3 +6,5 @@ Copy code
 # /.env
 
 /venv
+
+/notebooks

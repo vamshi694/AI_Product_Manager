@@ -1,10 +1,5 @@
 import streamlit as st
-from chat_model import chat_model
-from generate_summary import summarizer
-from intent_classifier import intent_classifier
-from generate_epic import generate_epic
-from generate_user_story import generate_user_stories
-from generate_next_steps import generate_next_steps
+from generative_ai_utils import chat_model, summarizer, generate_epic, generate_user_stories, generate_next_steps, intent_classifier
 from avatar import generate_video
 from mail import send_email
 from jira_tasks import create_jira_epic, create_jira_user_story
