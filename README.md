@@ -58,25 +58,29 @@
 3. Run the following command to install the required dependencies:
 
    ```bash
-   pip install -r requirements.txt
+    pip install -r requirements.txt
    ```
 
 4. Navigate to Dylan Folder.
 5. Add .env file in the folder with following requirements:
    ```
-   API_KEY = ""
+    API_KEY = ""
     API_KEY_D_ID = ""
     JIRA_API = ""
     JIRA_EMAIL_ID = ""
    ```
-6. In the same .env file, to send an email, create a create an app passcode from your gmail id and use those details here:
+6. In the same .env file, to send an email, create a create an app passcode from your gmail id and use those details here. Add the senders and receivers email id's here too:
+FROM_ADD = "from address (email)"
+TO_ADD = "to address email":
     ```
-    "APP_PASSCODE" = ""
-     "APP_MAIL_ID" = ""
+    APP_PASSCODE = ""
+    APP_MAIL_ID = ""
+    FROM_ADD = ""
+    TO_ADD = ""
     ```
 7. Run app.py in Dylan folder:
    ```bash
-   streamlit run app.py
+    streamlit run app.py
    ```
 
 ## Video Demo
