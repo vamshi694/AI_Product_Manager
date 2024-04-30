@@ -62,21 +62,21 @@
    ```
 
 4. Navigate to Dylan Folder.
-5. Add .env file in the folder with following requirements:
+5. Add .env file in the folder with following requirements. These API Keys will be provided by the used:
    ```
-    API_KEY = ""
-    API_KEY_D_ID = ""
-    JIRA_API = ""
-    JIRA_EMAIL_ID = ""
+    API_KEY = "Gemini API KEY"
+    API_KEY_D_ID = "D_ID Avatar API Key"
+    JIRA_API = " JIRA API Key"
+    JIRA_EMAIL_ID = "JIRA email id"
    ```
 6. In the same .env file, to send an email, create a create an app passcode from your gmail id and use those details here. Add the senders and receivers email id's here too:
 FROM_ADD = "from address (email)"
 TO_ADD = "to address email":
     ```
-    APP_PASSCODE = ""
-    APP_MAIL_ID = ""
-    FROM_ADD = ""
-    TO_ADD = ""
+    APP_PASSCODE = " Gmail Passcode"
+    APP_MAIL_ID = " Your App email Id"
+    FROM_ADD = "Sender email id"
+    TO_ADD = "Receiver email id"
     ```
 7. Run app.py in Dylan folder:
    ```bash
