@@ -44,7 +44,7 @@
 ## Concept Covered
 
 1. **User Experience and PM knowledge:** - Interviewed real TPMs and PMs about pain points and other day-in-life things.
-2. **Gemini AI:** - We utilized Gemini AI's capabilities for vision (Gemini Pro Vision for photos) and language generation (Gemini 1.5 Pro for videos and creating narrative scripts).
+2. **Gemini AI:** -We utilized Gemini AI's language generation (Gemini 1.5 Pro for better conversation build).
 3. **API Integrations:** - We utilized several Email APIs, Jira APIs & D-ID Avatar APIs to stream the Text--> Speech Avatar into UI.
 
 ## Technical Stack
