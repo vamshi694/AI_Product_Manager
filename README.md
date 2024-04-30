@@ -1,7 +1,4 @@
-# AI_Product_Manager
-Building a AI product manager - Dylan. 
-
-A TPM bot to chat and brainstorm 
+# Dylan - AI_Product_Manager
 
     1) New feature request
     2) New product development plan
@@ -10,6 +7,87 @@ A TPM bot to chat and brainstorm
 
 [def]: images/Dylan_Flow.png
 ![alt text][def]
+
+## Team Members
+
+1. [Vamshi Mugala](https://github.com/vamshi694) 
+2. [Sahil Mahey](https://github.com/SahilMahey)
+3. [Jenny](https://github.com/JenPink25)
+4. [Jaanvi Cheethirala](https://github.com/JaanviR)
+
+## Table of Contents
+
+- [Key Features](#key-features)
+- [Concept Covered](#concept-covered)
+- [Technical Stack](#technical-stack)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+- [Video Demo](#video-demo)
+- [License](#license)
+
+## Key Features
+
+- **Brainstorming New Product Ideas:**
+  - Facilitates the generation of new product ideas and technical specifications.
+  
+- **Feature Request / New Products:**
+  - Streamlines collecting and prioritizing new feature requests for existing products..
+
+- **KPI Analysis:**
+  - Utilizes AI to perform root cause analysis on KPI drops and synthesizes user feedback studies, providing actionable insights.
+
+- **Integration with Tools:**
+  - Seamlessly connecting with Jira and other project management tools to fetch data and manage storyboards effectively. Summarizes the conversation to send it via email to the desired individual.
+
+- **Avatar Interface:**
+  - Creating a user-friendly, avatar-based interface to humanize interactions with AI and enhance user engagement..
+
+## Concept Covered
+
+1. **User Experience and PM knowledge:** - Interviewed real TPMs and PMs about pain points and other day-in-life things.
+2. **Gemini AI:** - We utilized Gemini AI's capabilities for vision (Gemini Pro Vision for photos) and language generation (Gemini 1.5 Pro for videos and creating narrative scripts).
+3. **API Integrations:** - We utilized several Email APIs, Jira APIs & D-ID Avatar APIs to stream the Text--> Speech Avatar into UI.
+
+## Technical Stack
+
+- **UI and Logic Development:** Python, Streamlit, Gemini API, JIRA API, Email API, D-ID Avatar API
+
+## Getting Started
+
+1. Clone the repository.
+2. Open the terminal and navigate to the code directory.
+3. Run the following command to install the required dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Navigate to Dylan Folder.
+5. Add .env file in the folder with following requirements:
+   ```
+   API_KEY = ""
+    API_KEY_D_ID = ""
+    JIRA_API = ""
+    JIRA_EMAIL_ID = ""
+   ```
+6. In the same .env file, to send an email, create a create an app passcode from your gmail id and use those details here:
+    ```
+    "APP_PASSCODE" = ""
+     "APP_MAIL_ID" = ""
+    ```
+7. Run app.py in Dylan folder:
+   ```bash
+   streamlit run app.py
+   ```
+
+## Video Demo
+
+1. [Full Video Demonstration]()
+2. [Full Project Demonstration](https://devpost.com/sahilmahey929?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code. We appreciate your contributions and hope Tom's Maze Chase brings joy to your gaming adventures! 🍲🚀
 
 
 
