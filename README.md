@@ -11,7 +11,7 @@
 ## Team Members
 
 1. [Vamshi Mugala](https://github.com/vamshi694)
-2. [Jaanvi Cheethirala](https://github.com/JaanviR)
+2. [Jahnavi Cheethirala](https://github.com/JaanviR)
 3. [Jenny](https://github.com/JenPink25)
 4. [Sahil Mahey](https://github.com/SahilMahey)
 
