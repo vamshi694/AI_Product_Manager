@@ -90,7 +90,7 @@ TO_ADD = "to address email":
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code. We appreciate your contributions and hope Tom's Maze Chase brings joy to your gaming adventures! 🍲🚀
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code. We appreciate your contributions and hope Dylan brings joy to your product management journey! 🍲🚀
 
 
 
