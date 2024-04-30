@@ -20,7 +20,6 @@
 - [Key Features](#key-features)
 - [Concept Covered](#concept-covered)
 - [Technical Stack](#technical-stack)
-- [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [Video Demo](#video-demo)
 - [License](#license)
