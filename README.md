@@ -1,5 +1,5 @@
 # Dylan - AI_Product_Manager
-Your virtual employee available at moment's notice to brainstorm
+## Your virtual employee available at a moment's notice to brainstorm
     1) New feature request
     2) New product development plan
     3) Root cause  analysis for an issue in the current product
