@@ -7,6 +7,8 @@
 
 [def]: images/Dylan_Flow.png
 ![alt text][def]
+![alt text 2](images/Dylan.png)
+![alt text 3](images/Dylan Workflow.png)
 
 ## Team Members
 
