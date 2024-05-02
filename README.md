@@ -3,7 +3,7 @@
     1) New feature request
     2) New product development plan
 
-## 1. [Full Video Demonstration](https://youtu.be/MwJhsB6eqWU?si=FTg8lnxoeMGXhxAf)
+## 1. [Full Video Demonstration](https://youtu.be/QvDmmhyeAkw?si=9NNlBdT9iiBr_0I7)
 ### PS: You would need gmail api keys to make this work end to end.
 
 ![alt text 1](images/Dylan.png)
@@ -85,7 +85,7 @@ TO_ADD = "to address email":
 
 ## Video Demo
 
-1. [Full Video Demonstration](https://youtu.be/QvDmmhyeAkw?si=j4k8T1IHB_KYnod2)
+1. [Full Video Demonstration](https://youtu.be/QvDmmhyeAkw?si=9NNlBdT9iiBr_0I7)
 2. [Full Project Demonstration](https://devpost.com/software/dylan-ai-product-manager)
 
 
