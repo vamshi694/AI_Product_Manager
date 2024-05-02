@@ -8,7 +8,7 @@
 ### PS: You would need gmail api keys to make this work end to end.
 
 ![alt text 1](images/Dylan.png)
-![alt text 2](/images/Dylan Workflow.jpeg)
+![alt text 2](/images/Dylan_Workflow.jpeg)
 
 
 ## Team Members
