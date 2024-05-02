@@ -5,10 +5,10 @@
     3) Root cause  analysis for an issue in the current product
 
 
-[def]: images/Dylan_Flow.png
-![alt text][def]
-![alt text 2](images/Dylan.png)
-![alt text 3](images/Dylan Workflow.png)
+![alt text 1](images/Dylan.png)
+![alt text 2](images/Dylan Workflow.jpeg)
+![alt text 3](images/Dylan (as virtual PM).png)
+
 
 ## Team Members
 
