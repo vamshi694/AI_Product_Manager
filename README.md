@@ -2,7 +2,6 @@
 ## Your virtual employee available at a moment's notice to brainstorm
     1) New feature request
     2) New product development plan
-    3) Root cause  analysis for an issue in the current product
 
 ## 1. [Full Video Demonstration](https://youtu.be/MwJhsB6eqWU?si=FTg8lnxoeMGXhxAf)
 ### PS: You would need gmail api keys to make this work end to end.
@@ -35,14 +34,11 @@
 - **Feature Request / New Products:**
   - Streamlines collecting and prioritizing new feature requests for existing products..
 
-- **KPI Analysis:**
-  - Utilizes AI to perform root cause analysis on KPI drops and synthesizes user feedback studies, providing actionable insights.
-
 - **Integration with Tools:**
   - Seamlessly connecting with Jira and other project management tools to fetch data and manage storyboards effectively. Summarizes the conversation to send it via email to the desired individual.
 
 - **Avatar Interface:**
-  - Creating a user-friendly, avatar-based interface to humanize interactions with AI and enhance user engagement..
+  - A user-friendly, avatar-based interface to humanize interactions with AI and enhance user engagement.
 
 ## Concept Covered
 
@@ -52,7 +48,7 @@
 
 ## Technical Stack
 
-- **UI and Logic Development:** Python, Streamlit, Gemini API, JIRA API, Email API, D-ID Avatar API
+- **UI and Logic Development:** Python, Streamlit, Gemini API, JIRA API, Email API, D-ID Avatar Talks API
 
 ## Getting Started
 
@@ -71,6 +67,7 @@
     API_KEY_D_ID = "D_ID Avatar API Key"
     JIRA_API = "JIRA API Key"
     JIRA_EMAIL_ID = "JIRA email id"
+    JIRA_PROJECT_KEY = "JIRA project key name"  
    ```
 6. In the same .env file, to send an email, create a create an app passcode from your gmail id and use those details here. Add the senders and receivers email id's here too:
 FROM_ADD = "from address (email)"
@@ -88,7 +85,7 @@ TO_ADD = "to address email":
 
 ## Video Demo
 
-1. [Full Video Demonstration](https://youtu.be/MwJhsB6eqWU?si=FTg8lnxoeMGXhxAf)
+1. [Full Video Demonstration](https://youtu.be/QvDmmhyeAkw?si=j4k8T1IHB_KYnod2)
 2. [Full Project Demonstration](https://devpost.com/software/dylan-ai-product-manager)
 
 
