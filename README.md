@@ -4,11 +4,11 @@
     2) New product development plan
     3) Root cause  analysis for an issue in the current product
 
+## 1. [Full Video Demonstration](https://youtu.be/MwJhsB6eqWU?si=FTg8lnxoeMGXhxAf)
+### PS: You would need gmail api keys to make this work end to end.
 
 ![alt text 1](images/Dylan.png)
 ![alt text 2](/images/Dylan Workflow.jpeg)
-![alt text 3](/images/Dylan (as virtual PM).png)
-
 
 
 ## Team Members
@@ -90,10 +90,6 @@ TO_ADD = "to address email":
 
 1. [Full Video Demonstration](https://youtu.be/MwJhsB6eqWU?si=FTg8lnxoeMGXhxAf)
 2. [Full Project Demonstration](https://devpost.com/software/dylan-ai-product-manager)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code. We appreciate your contributions and hope Dylan brings joy to your product management journey! 🍲🚀
 
 
 
