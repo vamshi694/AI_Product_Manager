@@ -60,10 +60,10 @@
     pip install -r requirements.txt
    ```
 
-4. Navigate to Dylan Folder.
+4. Navigate to gemini_hackathon Folder.
 5. Add .env file in the folder with following requirements. These API Keys will be provided by the used:
    ```
-    API_KEY = "Gemini API KEY"
+    GEMINI_API_KEY = "Gemini API KEY"
     API_KEY_D_ID = "D_ID Avatar API Key"
     JIRA_API = "JIRA API Key" 
     JIRA_EMAIL_ID = "JIRA email id" #JIRA signin/account email
