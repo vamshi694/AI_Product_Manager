@@ -6,8 +6,9 @@
 
 
 ![alt text 1](images/Dylan.png)
-![alt text 2](images/Dylan Workflow.jpeg)
-![alt text 3](images/Dylan (as virtual PM).png)
+![alt text 2](/images/Dylan Workflow.jpeg)
+![alt text 3](/images/Dylan (as virtual PM).png)
+
 
 
 ## Team Members
