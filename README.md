@@ -65,18 +65,18 @@
    ```
     API_KEY = "Gemini API KEY"
     API_KEY_D_ID = "D_ID Avatar API Key"
-    JIRA_API = "JIRA API Key"
-    JIRA_EMAIL_ID = "JIRA email id"
-    JIRA_PROJECT_KEY = "JIRA project key name"  
+    JIRA_API = "JIRA API Key" 
+    JIRA_EMAIL_ID = "JIRA email id" #JIRA signin/account email
+    JIRA_PROJECT_KEY = "JIRA project key name"   #Create a new project in JIRA and add the new project key or add an existing project key
    ```
 6. In the same .env file, to send an email, create a create an app passcode from your gmail id and use those details here. Add the senders and receivers email id's here too:
 FROM_ADD = "from address (email)"
 TO_ADD = "to address email":
     ```
-    APP_PASSCODE = "Gmail Passcode"
+    APP_PASSCODE = "Gmail Passcode" 
     APP_MAIL_ID = "Your App email Id"
-    FROM_ADD = "Sender email id"
-    TO_ADD = "Receiver email id"
+    FROM_ADD = "Sender's email id"
+    TO_ADD = "Receiver's email id"
     ```
 7. Run app.py in Dylan folder:
    ```bash
