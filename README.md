@@ -85,7 +85,7 @@ TO_ADD = "to address email":
 
 ## Video Demo
 
-1. [Full Video Demonstration]()
+1. [Full Video Demonstration](https://youtu.be/MwJhsB6eqWU?si=FTg8lnxoeMGXhxAf)
 2. [Full Project Demonstration](https://devpost.com/software/dylan-ai-product-manager)
 
 ## License
